@@ -113,5 +113,29 @@ namespace Practica_tercer_trimestre
         {
 
         }
+
+        private void añadirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            bool estaAbierta = false;
+
+            foreach (Form v in Application.OpenForms)
+            {
+                if (v.Text == "Añadir")
+                {
+                    estaAbierta = true;
+                }
+            }
+
+            if (!estaAbierta)
+            {
+                /*se va a abrir la ventana de empleados pero como hija de la ventana prioncipal*/
+                /*se ha de declarar una variable del tipo de ventana que se desea abrir*/
+                AñadirClientes vAñadir = new AñadirClientes();
+                /*ante de abrir la ventana se ha de esoecificar que esta ventana es hija de la que estamos codificando*/
+                vAñadir.MdiParent = this;
+                /*esta mostrando la ventana con show*/
+                vAñadir.Show();
+            }
+        }
     }
 }

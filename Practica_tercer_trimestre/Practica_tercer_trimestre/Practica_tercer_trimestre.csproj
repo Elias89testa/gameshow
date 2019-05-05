@@ -61,11 +61,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AñadirClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AñadirClientes.Designer.cs">
+      <DependentUpon>AñadirClientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="BorrarCompras.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BorrarCompras.Designer.cs">
       <DependentUpon>BorrarCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs" />
+    <Compile Include="ConsultarClientescs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarClientescs.Designer.cs">
+      <DependentUpon>ConsultarClientescs.cs</DependentUpon>
     </Compile>
     <Compile Include="ConsultarCompras.cs">
       <SubType>Form</SubType>
@@ -79,6 +92,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gestion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Consultasxsd.Designer.cs">
@@ -92,6 +106,15 @@
     <Compile Include="RegistrarCompras.Designer.cs">
       <DependentUpon>RegistrarCompras.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AñadirClientes.resx">
+      <DependentUpon>AñadirClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrarCompras.resx">
+      <DependentUpon>BorrarCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarClientescs.resx">
+      <DependentUpon>ConsultarClientescs.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ConsultarCompras.resx">
       <DependentUpon>ConsultarCompras.cs</DependentUpon>
     </EmbeddedResource>

@@ -16,5 +16,10 @@ namespace Practica_tercer_trimestre
         {
             InitializeComponent();
         }
+
+        private void BorrarCompras_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

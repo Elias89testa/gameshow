@@ -12,3 +12,5 @@ C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\
 C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.RegistrarCompras.resources
 C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\TiendaVideojuegos.mdf
 C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\TiendaVideojuegos_log.ldf
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.AñadirClientes.resources
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.BorrarCompras.resources
