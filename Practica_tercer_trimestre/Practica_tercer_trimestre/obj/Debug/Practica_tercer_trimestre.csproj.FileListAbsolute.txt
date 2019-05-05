@@ -1,0 +1,14 @@
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\Practica_tercer_trimestre.exe.config
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\Practica_tercer_trimestre.exe
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\Practica_tercer_trimestre.pdb
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.Form1.resources
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.Properties.Resources.resources
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.csproj.GenerateResource.cache
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.exe
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.pdb
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.ConsultarCompras.resources
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\obj\Debug\Practica_tercer_trimestre.RegistrarCompras.resources
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\TiendaVideojuegos.mdf
+C:\Users\elias\source\repos\Practica_tercer_trimestre\Practica_tercer_trimestre\bin\Debug\TiendaVideojuegos_log.ldf
