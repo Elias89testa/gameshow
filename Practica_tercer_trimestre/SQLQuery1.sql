@@ -1,1 +1,0 @@
-﻿SP_RENAME 'dbo.productos_comprados', 'dbo.productos_vendidos'

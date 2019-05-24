@@ -120,7 +120,7 @@ namespace Practica_tercer_trimestre
 
             foreach (Form v in Application.OpenForms)
             {
-                if (v.Text == "AñadirClientes")
+                if (v.Text == "Añadir")
                 {
                     estaAbierta = true;
                 }
